@@ -2,5 +2,3 @@
 Student         GIT Command          Example                        What does it do?
 -------------------------------------------------------------------------------------------------
 Sample          git log -n           git log --stat -2              Displays some abbreviated stats for last two commits.
--------------------------------------------------------------------------------------------------
-Anirudh         git merge --squash branchname    git merge --squash target      Squashes/combines all of the commits into one clump of changes.
